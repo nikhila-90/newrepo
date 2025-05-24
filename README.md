@@ -1,1 +1,1 @@
-Initial README
+Hello from conflict branch
